@@ -38,6 +38,7 @@ public class Google {
 	        driver.findElement(By.name("q")).sendKeys("Selenium");
 	        logger.info("keyword type");        
 	        logger.info("keyword type");    
+	        logger.info("keyword type");  
 	}
 
 }
